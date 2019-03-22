@@ -223,7 +223,7 @@ public class RippleView: UIView {
         if radius > maxCircleRadius { return }
         
         let circleLayer = Drawer.circleLayer(radius: radius, origin: bounds.center, color: circleOffColor.cgColor)
-        circleLayer.lineWidth = 2.0
+        circleLayer.lineWidth = 1.0
         circlesLayer.append(circleLayer)
         self.layer.addSublayer(circleLayer)
     }

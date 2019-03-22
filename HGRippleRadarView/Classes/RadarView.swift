@@ -150,10 +150,14 @@ final public class RadarView: RippleView {
              for example, dispatch the gap as padding between items
              let randomAngle = CGFloat(arc4random_uniform(UInt32(Float.pi * 2)))
              */
+            let preferredSize = CGSize(width: itemRadius*2, height: itemRadius*2)
             for index in 0 ..< Int(capicity) {
                 let angle = ((CGFloat(index) * 2 * CGFloat.pi) / CGFloat(capicity))/* + randomAngle */
                 let itemOrigin = Geometry.point(in: angle, of: circle)
-                allPossiblePositions.append(itemOrigin)
+                if itemOrigin.x > preferredSize.width && (itemOrigin.x + preferredSize.width) < frame.width &&
+                    itemOrigin.y > preferredSize.height && (itemOrigin.y + preferredSize.height) < frame.height {
+                    allPossiblePositions.append(itemOrigin)
+                }
             }
         }
     }

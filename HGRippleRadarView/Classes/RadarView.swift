@@ -244,6 +244,10 @@ final public class RadarView: RippleView {
         let animation = Animation.opacity(from: 0.3, to: 1.0)
         itemView.layer.add(animation, forKey: "opacity")
     }
+    
+    public func deselect() {
+        currentItemView = nil
+    }
 }
 
 extension RadarView: CAAnimationDelegate {

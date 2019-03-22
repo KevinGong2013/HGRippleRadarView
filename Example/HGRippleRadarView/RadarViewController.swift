@@ -38,7 +38,7 @@ class RadarViewController: UIViewController {
     @objc func addItem() {
         if index > 3 {
             addMultipleItems()
-            timer?.invalidate()
+//            timer?.invalidate()
             return
         }
         let item = Item(uniqueKey: "item\(index)", value:"item\(index)")

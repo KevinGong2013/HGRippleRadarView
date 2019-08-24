@@ -219,17 +219,17 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 1000;
+				LastUpgradeCheck = 1030;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = Y7J8SC6HY9;
+						DevelopmentTeam = X7S38PP265;
 						LastSwiftMigration = 1000;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = Y7J8SC6HY9;
+						DevelopmentTeam = X7S38PP265;
 						LastSwiftMigration = 1000;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -237,7 +237,7 @@
 			};
 			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "HGRippleRadarView" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -389,6 +389,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -444,6 +445,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -493,7 +495,7 @@
 			baseConfigurationReference = AD2F390261D57A200F58615F /* Pods-HGRippleRadarView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Y7J8SC6HY9;
+				DEVELOPMENT_TEAM = X7S38PP265;
 				INFOPLIST_FILE = HGRippleRadarView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -508,7 +510,7 @@
 			baseConfigurationReference = 81AA80712E8717DE3BD650EF /* Pods-HGRippleRadarView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Y7J8SC6HY9;
+				DEVELOPMENT_TEAM = X7S38PP265;
 				INFOPLIST_FILE = HGRippleRadarView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -522,7 +524,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 951FCC503979FD2CCD3CBEFC /* Pods-HGRippleRadarView_Tests.debug.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = Y7J8SC6HY9;
+				DEVELOPMENT_TEAM = X7S38PP265;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -543,7 +545,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4CB4DCE10D93F9E15F78629F /* Pods-HGRippleRadarView_Tests.release.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = Y7J8SC6HY9;
+				DEVELOPMENT_TEAM = X7S38PP265;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",

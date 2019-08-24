@@ -7,141 +7,141 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		070455CCD185B2617D35D9A1DBC9012A /* UIWindow+Swizzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9D707D1DC00390DDEABEE6868A2A06 /* UIWindow+Swizzle.swift */; };
-		218C6F4C01BDAE0DD09D93BC2295B29B /* HGRippleRadarView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B5D61B98AEE018A35E476CF17E8B9FDB /* HGRippleRadarView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		25F81E5C1C947E5FFBE5DED0FED1E946 /* RadarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94078ED52BF263B0362881D89598E42 /* RadarView.swift */; };
-		2E244973C8072C9F43BD0BD095026346 /* Visualizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EE9F52CD1D120F2145BBDB803505AC /* Visualizer.swift */; };
-		3146E31E79CA323D6FC759C0AD21B825 /* Pods-HGRippleRadarView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 31E3F97D2F49BC2CBBBA166A7D86E351 /* Pods-HGRippleRadarView_Example-dummy.m */; };
-		341809A074AF41474DF815AF72C82C34 /* RippleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 749798613B19B6E52B21AB3C28890BF4 /* RippleView.swift */; };
-		48C53F541D8FB4855DC9A59065E931E2 /* TouchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274CA21A1481AB85F2ED9A6DC9E71657 /* TouchView.swift */; };
-		5F2C2DC37809667E26AAF3A21ECC1B77 /* Pods-HGRippleRadarView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2F7E7E4D2A102C7484534DE82A83C3 /* Pods-HGRippleRadarView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		62C04F723BDA9DC3766BB5C6D7B1F75E /* HGRippleRadarView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 957E34FC4747560371C9CC73449BA72C /* HGRippleRadarView-dummy.m */; };
-		7047B2E970F2C5C0602FC25CC23316DC /* Pods-HGRippleRadarView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 635934E5A0DA54887FD0E8E09E7A8DB8 /* Pods-HGRippleRadarView_Tests-dummy.m */; };
-		71D2F85C7BA637674DC76197C351716B /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FE93F5C5FBE8F5BF70387C9A2C6380 /* UIColor.swift */; };
-		76B90E75DC631FCC82FF6948C338F722 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		7D0ADE4C2E87D3794E5E42F5F2EB9FD3 /* TouchVisualizer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FAD38B212319BB76C701008A22F745A2 /* TouchVisualizer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		82AE44F4EFD64AE58A5FBD46C590C32B /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62EF8CA1A920963A4EAA24FB1EA96DA4 /* Item.swift */; };
-		89DB17E4A93611B266157E3D527B03C8 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD96949A26BDEC39A34288A5CABBAAB4 /* Animation.swift */; };
-		8C57D30548E031EDA80E11D35B7C27EB /* Drawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BED6416CFF22992C51141EC0658DA3 /* Drawer.swift */; };
-		8E8ABB56CD383000DFD52FD310C5142B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		A0265E476E0C07AD30335BFD46F70AC2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		AF1AFD6CA0BF3266CF9F475A06A708BE /* Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA87F52A9EE93FA8BE68E770ECB7BA5 /* Configuration.swift */; };
-		B71CA2988803D91A45277E28CCA421AA /* RadarViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7490BCDADD2E537299A786DAB1B3B17C /* RadarViewProtocol.swift */; };
-		C5E2958EC40CE77BE39DE75D19329A55 /* Pods-HGRippleRadarView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E66393BBEF0424313D1B2B9C34822065 /* Pods-HGRippleRadarView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D1E2BB80BB081717B1495E00FE820309 /* Geometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889001642D8B7ED4A5CFF97A69E34B9A /* Geometry.swift */; };
-		D45975B93B914804DFE2A7E156B0A17A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		D5B10F57B008075FFBDA39D32257B179 /* TouchVisualizer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 696E206FD5CA4055489677EE226C3088 /* TouchVisualizer-dummy.m */; };
-		E9F05A3A0A27A66FB7DC974C5F36BDE6 /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA508A09DEE95819C4E485B3AB2C77BA /* ItemView.swift */; };
+		00C7BF08D73B5D6D54C3679C5C5651E8 /* HGRippleRadarView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 83DB6ADF4B4FC49BBA075F2E9C15083A /* HGRippleRadarView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1083FA758DF1CCCFFF291BE0257951F5 /* RippleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDAD8015A9F071C65D7E421CB4EF81A1 /* RippleView.swift */; };
+		1FBA04CE9D248CFB7D9F0280BC089F38 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		2A9844FB3B86CA854496C144AB53853C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		2C4AE75E61A0D850D7B67FD8154B646E /* TouchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274CA21A1481AB85F2ED9A6DC9E71657 /* TouchView.swift */; };
+		44A93AAE884A39501B0455A685319DCE /* RadarViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34FF3A366C524C35E91737D18EA6EAC /* RadarViewProtocol.swift */; };
+		4867457118067425AB18F42683268863 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CAE0ADC0F64A95506DC70F40B8E487 /* Item.swift */; };
+		590C635BBCB96FED126D8103342FF47E /* Drawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D9FC407E2D46002012CBBC251A3AFE /* Drawer.swift */; };
+		5F2B5FED99F618DE98CC78D3E8C4725D /* UIWindow+Swizzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9D707D1DC00390DDEABEE6868A2A06 /* UIWindow+Swizzle.swift */; };
+		80AE69B4F08F185A98CA0A8C67F4197D /* Pods-HGRippleRadarView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B556087996FAF690C81E721388102B8 /* Pods-HGRippleRadarView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8985497D7FACFBFA9C48FB83EB58234C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		8FC54C6BEF7321BDB7A6A9DDB3B54B20 /* Pods-HGRippleRadarView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FAC556EEB3B4251D1108DFF83D9DB07D /* Pods-HGRippleRadarView_Example-dummy.m */; };
+		A2150CE6EDA4BA5FABD4D1B8B1CA2CC9 /* TouchVisualizer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 563F21E6972F3FE1331E01E317195B17 /* TouchVisualizer-dummy.m */; };
+		A636EAA9AFECE5ED9A2E605B6585ACFA /* Pods-HGRippleRadarView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 755405A331E5A9228E2A16942CE0A7DF /* Pods-HGRippleRadarView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AAA5D140F7C709FB22C973B6C44942B8 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 662ECFB291A47D1E93F028D940DCB246 /* UIColor.swift */; };
+		B74A0D69E934713D525884F27737B602 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25681B2369559E4B943C597D68640EF0 /* Animation.swift */; };
+		C07FFDFC3CCB9FAB0A0A7335EDD2A5CC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		C13CCF4DED28CE1E181D0068036A583E /* HGRippleRadarView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A33FBC4D855356CC7B5384EFF157A8ED /* HGRippleRadarView-dummy.m */; };
+		D2F7CF16A4D8AC63FE4862EA097704FE /* RadarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F0ACCB56220B8AFDB20C05A3BF11C4 /* RadarView.swift */; };
+		E47916C1D8E2E80CA2C3FC4E902B1B08 /* Geometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A346D539058D2FF5B8BC3CBC7AF7D8C /* Geometry.swift */; };
+		E560AFC9348B15192C0A376C3AD8969D /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBB5A0A2897D2119B842FB54879CC88 /* ItemView.swift */; };
+		E7D35E7BA3A5965F2831537FA7B45050 /* TouchVisualizer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AA271CB238B98336A77DEBBDCF85BF2 /* TouchVisualizer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6EFE7C599E1EDC7BD8864FED7FCB6E4 /* Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA87F52A9EE93FA8BE68E770ECB7BA5 /* Configuration.swift */; };
+		F8FA97A7949F7298624878EB8A1B4696 /* Pods-HGRippleRadarView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27BF3234E196FDEFA47DF825456DF9A2 /* Pods-HGRippleRadarView_Tests-dummy.m */; };
+		FEB37233939C2991C934E8E26FA3C158 /* Visualizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EE9F52CD1D120F2145BBDB803505AC /* Visualizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		042EEAB24DAAADE8B1797E1B5B2B808B /* PBXContainerItemProxy */ = {
+		BE8E9CC3014775E8D45942C2A1E3B943 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 706C3CAB8D80C8E76C23BDE042236C00;
-			remoteInfo = "Pods-HGRippleRadarView_Example";
-		};
-		B10102278677B3A28F43FAF85C265258 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = BF3ED58D93F40668C232117629B8D53A;
+			remoteGlobalIDString = AD3A46F6BA83BC350FBC948C7F8D498F;
 			remoteInfo = HGRippleRadarView;
 		};
-		DBBE0EA8A236E49049132456674A3EFC /* PBXContainerItemProxy */ = {
+		E505DC3B87D0C251EF922987F464505B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5DBD21953C80EF372CC84A9FD019AF81;
+			remoteGlobalIDString = F89A2D2E64741639216A7211115C72E2;
 			remoteInfo = TouchVisualizer;
+		};
+		F2F88EFE269E291357C4059CF3332E90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1399143B2E583F8259E0A2EEE8894C7A;
+			remoteInfo = "Pods-HGRippleRadarView_Example";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		07CD7AF861527F108C0121C18F4C4B6F /* Pods-HGRippleRadarView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		0CE4F893CBA77571B0B7A93DFE97FE97 /* HGRippleRadarView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HGRippleRadarView.xcconfig; sourceTree = "<group>"; };
-		1B412B73AEE8035D5ABF221FCE92B5A4 /* HGRippleRadarView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HGRippleRadarView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2119AB167682EA32516BF61DE8CC9783 /* HGRippleRadarView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HGRippleRadarView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		00D9FC407E2D46002012CBBC251A3AFE /* Drawer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Drawer.swift; sourceTree = "<group>"; };
+		0815CACD66CF657BB4615720D9C53C3C /* TouchVisualizer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TouchVisualizer.xcconfig; sourceTree = "<group>"; };
+		0E1278DB11594925E0286E43A68E8C65 /* HGRippleRadarView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HGRippleRadarView.xcconfig; sourceTree = "<group>"; };
+		188E302896EF5832C0561926ABE177EF /* Pods-HGRippleRadarView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Example.release.xcconfig"; sourceTree = "<group>"; };
+		1FC938818588CF50A4B1025691689FDD /* Pods-HGRippleRadarView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Tests-Info.plist"; sourceTree = "<group>"; };
+		20E3839483FD5CF5041CD44F63A03DEB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		25681B2369559E4B943C597D68640EF0 /* Animation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 		274CA21A1481AB85F2ED9A6DC9E71657 /* TouchView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TouchView.swift; path = TouchVisualizer/TouchView.swift; sourceTree = "<group>"; };
-		2944AEB579615D7B7278F4017166C0F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		31E3F97D2F49BC2CBBBA166A7D86E351 /* Pods-HGRippleRadarView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HGRippleRadarView_Example-dummy.m"; sourceTree = "<group>"; };
-		339B583B5E1B44C2F53B5B543C13A16C /* TouchVisualizer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TouchVisualizer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3BCDBB6FA9E1DB794CF43761A39D685B /* HGRippleRadarView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HGRippleRadarView.modulemap; sourceTree = "<group>"; };
-		4C9663D3EC750301DBDF309CEF8EC334 /* Pods_HGRippleRadarView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGRippleRadarView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		54BED6416CFF22992C51141EC0658DA3 /* Drawer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Drawer.swift; sourceTree = "<group>"; };
+		27BF3234E196FDEFA47DF825456DF9A2 /* Pods-HGRippleRadarView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HGRippleRadarView_Tests-dummy.m"; sourceTree = "<group>"; };
+		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3AA271CB238B98336A77DEBBDCF85BF2 /* TouchVisualizer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TouchVisualizer-umbrella.h"; sourceTree = "<group>"; };
+		40F0ACCB56220B8AFDB20C05A3BF11C4 /* RadarView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RadarView.swift; path = HGRippleRadarView/Classes/RadarView.swift; sourceTree = "<group>"; };
+		42CAE0ADC0F64A95506DC70F40B8E487 /* Item.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Item.swift; path = HGRippleRadarView/Classes/Item.swift; sourceTree = "<group>"; };
+		4C23BF6134B4EE89215037074EA5913E /* Pods-HGRippleRadarView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Example-Info.plist"; sourceTree = "<group>"; };
+		52947390DE7AD6BF1D9CC5853F56D644 /* Pods-HGRippleRadarView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		552810C7BD37FD103DA76E2FF4FF7109 /* HGRippleRadarView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HGRippleRadarView.modulemap; sourceTree = "<group>"; };
+		563F21E6972F3FE1331E01E317195B17 /* TouchVisualizer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TouchVisualizer-dummy.m"; sourceTree = "<group>"; };
 		56EE9F52CD1D120F2145BBDB803505AC /* Visualizer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Visualizer.swift; path = TouchVisualizer/Visualizer.swift; sourceTree = "<group>"; };
-		593D91E1269C95DC9EFF74B407B481DE /* Pods-HGRippleRadarView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Tests-Info.plist"; sourceTree = "<group>"; };
-		60031CA12C4B5573F56F6B6B35797A46 /* TouchVisualizer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TouchVisualizer-prefix.pch"; sourceTree = "<group>"; };
-		62EF8CA1A920963A4EAA24FB1EA96DA4 /* Item.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Item.swift; path = HGRippleRadarView/Classes/Item.swift; sourceTree = "<group>"; };
-		635934E5A0DA54887FD0E8E09E7A8DB8 /* Pods-HGRippleRadarView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HGRippleRadarView_Tests-dummy.m"; sourceTree = "<group>"; };
-		696E206FD5CA4055489677EE226C3088 /* TouchVisualizer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TouchVisualizer-dummy.m"; sourceTree = "<group>"; };
-		6FE99479778EDCB84B51A1FF751BF1D4 /* Pods-HGRippleRadarView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		7490BCDADD2E537299A786DAB1B3B17C /* RadarViewProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RadarViewProtocol.swift; path = HGRippleRadarView/Classes/RadarViewProtocol.swift; sourceTree = "<group>"; };
-		749798613B19B6E52B21AB3C28890BF4 /* RippleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RippleView.swift; path = HGRippleRadarView/Classes/RippleView.swift; sourceTree = "<group>"; };
-		7E1E78A72ADA50D3FE8B5F21E010BA4A /* Pods-HGRippleRadarView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HGRippleRadarView_Tests.modulemap"; sourceTree = "<group>"; };
-		801F315B3A8ABAEADD01069788439A0E /* TouchVisualizer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TouchVisualizer-Info.plist"; sourceTree = "<group>"; };
-		889001642D8B7ED4A5CFF97A69E34B9A /* Geometry.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Geometry.swift; sourceTree = "<group>"; };
-		89FE93F5C5FBE8F5BF70387C9A2C6380 /* UIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		58E9850F490BDC8E4211DFC9BA198DDC /* Pods-HGRippleRadarView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		5BB849372CED4BD5CEA5D5A946C06ACE /* Pods_HGRippleRadarView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGRippleRadarView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		662ECFB291A47D1E93F028D940DCB246 /* UIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		755405A331E5A9228E2A16942CE0A7DF /* Pods-HGRippleRadarView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HGRippleRadarView_Example-umbrella.h"; sourceTree = "<group>"; };
+		7817E6A3AF09F7F8C81EB08C90E3973A /* Pods-HGRippleRadarView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		83DB6ADF4B4FC49BBA075F2E9C15083A /* HGRippleRadarView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HGRippleRadarView-umbrella.h"; sourceTree = "<group>"; };
+		8588FC5EFDC4D10A66F4C4C6818017BB /* HGRippleRadarView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HGRippleRadarView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		864EC41CCCA205166DE0A1A5A2653FF3 /* HGRippleRadarView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HGRippleRadarView-Info.plist"; sourceTree = "<group>"; };
+		8A346D539058D2FF5B8BC3CBC7AF7D8C /* Geometry.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Geometry.swift; sourceTree = "<group>"; };
+		8A37E2587439714D0F4B246C441B660E /* TouchVisualizer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TouchVisualizer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A864B1FE29E30D52DB51B506E74C874 /* Pods-HGRippleRadarView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HGRippleRadarView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8B556087996FAF690C81E721388102B8 /* Pods-HGRippleRadarView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HGRippleRadarView_Tests-umbrella.h"; sourceTree = "<group>"; };
+		8DECFC189DDE7A327DBA3E96D0F26939 /* Pods-HGRippleRadarView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HGRippleRadarView_Tests.modulemap"; sourceTree = "<group>"; };
+		8E0CE9C17DE6EEB4FDB96A7ED6F29E45 /* TouchVisualizer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TouchVisualizer-Info.plist"; sourceTree = "<group>"; };
 		8FA87F52A9EE93FA8BE68E770ECB7BA5 /* Configuration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Configuration.swift; path = TouchVisualizer/Configuration.swift; sourceTree = "<group>"; };
-		91D27C67F4553FF783DE7EDD507DB3D6 /* Pods-HGRippleRadarView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HGRippleRadarView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		957E34FC4747560371C9CC73449BA72C /* HGRippleRadarView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HGRippleRadarView-dummy.m"; sourceTree = "<group>"; };
-		963568E9F54041EB7F9B4703229E16EE /* HGRippleRadarView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HGRippleRadarView-prefix.pch"; sourceTree = "<group>"; };
-		969CDF8B05029319F6B944D0237A3D96 /* Pods-HGRippleRadarView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HGRippleRadarView_Example.modulemap"; sourceTree = "<group>"; };
-		9BC77804A366A065075275D241FF35BD /* Pods-HGRippleRadarView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		90C7BE41DE6FD69D51598368CA487984 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9C9D707D1DC00390DDEABEE6868A2A06 /* UIWindow+Swizzle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIWindow+Swizzle.swift"; path = "TouchVisualizer/UIWindow+Swizzle.swift"; sourceTree = "<group>"; };
+		9CAEAB7B6ED799766F7D33A3DCAA6BE1 /* TouchVisualizer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TouchVisualizer-prefix.pch"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A0475B90AFD153C70F5262A617F96DF8 /* TouchVisualizer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TouchVisualizer.xcconfig; sourceTree = "<group>"; };
-		A30AFFA7FDE832D9B64FA7AB472580BC /* Pods-HGRippleRadarView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Example-Info.plist"; sourceTree = "<group>"; };
-		A6DA0B8069E4C905A3C472684DFEBBB4 /* Pods-HGRippleRadarView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HGRippleRadarView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A801C62152A5D71E5B5859028AA22CC3 /* Pods-HGRippleRadarView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		A94078ED52BF263B0362881D89598E42 /* RadarView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RadarView.swift; path = HGRippleRadarView/Classes/RadarView.swift; sourceTree = "<group>"; };
-		AA508A09DEE95819C4E485B3AB2C77BA /* ItemView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ItemView.swift; path = HGRippleRadarView/Classes/ItemView.swift; sourceTree = "<group>"; };
-		AD96949A26BDEC39A34288A5CABBAAB4 /* Animation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
-		B43A0CC234B964BFDB4D41EC6FFBB8B4 /* HGRippleRadarView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HGRippleRadarView-Info.plist"; sourceTree = "<group>"; };
-		B5D61B98AEE018A35E476CF17E8B9FDB /* HGRippleRadarView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HGRippleRadarView-umbrella.h"; sourceTree = "<group>"; };
-		C7DF6253910125CC59C7CFB136340F21 /* Pods-HGRippleRadarView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HGRippleRadarView_Example-frameworks.sh"; sourceTree = "<group>"; };
-		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CDEBB5735102BC5606085F90B996EF8A /* TouchVisualizer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TouchVisualizer.modulemap; sourceTree = "<group>"; };
-		D523B5884D864B410A941000AC909AF9 /* Pods-HGRippleRadarView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		DCBD17C77FC2392E94CB6FD7C1A38304 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		E15F95F45EFAE314C99E72A86446D287 /* Pods_HGRippleRadarView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGRippleRadarView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E66393BBEF0424313D1B2B9C34822065 /* Pods-HGRippleRadarView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HGRippleRadarView_Example-umbrella.h"; sourceTree = "<group>"; };
-		F4E3D9C21876E3CF682CBA7061F237F6 /* Pods-HGRippleRadarView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		FA2F7E7E4D2A102C7484534DE82A83C3 /* Pods-HGRippleRadarView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HGRippleRadarView_Tests-umbrella.h"; sourceTree = "<group>"; };
-		FAD38B212319BB76C701008A22F745A2 /* TouchVisualizer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TouchVisualizer-umbrella.h"; sourceTree = "<group>"; };
+		A33FBC4D855356CC7B5384EFF157A8ED /* HGRippleRadarView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HGRippleRadarView-dummy.m"; sourceTree = "<group>"; };
+		B9D13A57A369952E8BDE5D48E02414D0 /* Pods-HGRippleRadarView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HGRippleRadarView_Example-frameworks.sh"; sourceTree = "<group>"; };
+		C2C740D5D65BFAD43D23435E904E8ED3 /* Pods-HGRippleRadarView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGRippleRadarView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		C34FF3A366C524C35E91737D18EA6EAC /* RadarViewProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RadarViewProtocol.swift; path = HGRippleRadarView/Classes/RadarViewProtocol.swift; sourceTree = "<group>"; };
+		CC4E8C061E01A4BE1AEC9A63B4CC2A87 /* Pods-HGRippleRadarView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HGRippleRadarView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		CD7A8494E74BFD4E9BF609765C847005 /* Pods_HGRippleRadarView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGRippleRadarView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7A534B46FEFB8F14D9D254400708600 /* TouchVisualizer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TouchVisualizer.modulemap; sourceTree = "<group>"; };
+		DFA9F930FCE93F5386511DDA58427152 /* HGRippleRadarView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HGRippleRadarView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E0D62185757F7471B1C0360C38A59143 /* Pods-HGRippleRadarView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGRippleRadarView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		EDBB5A0A2897D2119B842FB54879CC88 /* ItemView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ItemView.swift; path = HGRippleRadarView/Classes/ItemView.swift; sourceTree = "<group>"; };
+		EF838D4FA8B4809DC20631FE5701AA42 /* Pods-HGRippleRadarView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HGRippleRadarView_Example.modulemap"; sourceTree = "<group>"; };
+		F235AF9A1DEB49ED618E1E465CD63F46 /* HGRippleRadarView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HGRippleRadarView-prefix.pch"; sourceTree = "<group>"; };
+		FAC556EEB3B4251D1108DFF83D9DB07D /* Pods-HGRippleRadarView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HGRippleRadarView_Example-dummy.m"; sourceTree = "<group>"; };
+		FDAD8015A9F071C65D7E421CB4EF81A1 /* RippleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RippleView.swift; path = HGRippleRadarView/Classes/RippleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		29702C6D1BF021462150788CE84D29DA /* Frameworks */ = {
+		1FB568E540F77CEADA1F8E642FD271A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D45975B93B914804DFE2A7E156B0A17A /* Foundation.framework in Frameworks */,
+				1FBA04CE9D248CFB7D9F0280BC089F38 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4DDD971A0A71A2E6C18BAE51FDE55BD8 /* Frameworks */ = {
+		36482BCA3EA8FE3F1D87DFA251DE8530 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76B90E75DC631FCC82FF6948C338F722 /* Foundation.framework in Frameworks */,
+				8985497D7FACFBFA9C48FB83EB58234C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A555D1070A59219993E7B6CAA4B794FF /* Frameworks */ = {
+		763F78B6FD746F9D4C15EEE81A687E94 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0265E476E0C07AD30335BFD46F70AC2 /* Foundation.framework in Frameworks */,
+				C07FFDFC3CCB9FAB0A0A7335EDD2A5CC /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A63904302F7534536980B70D0B03727F /* Frameworks */ = {
+		B5A3F728FC5BEF79426A63C877A7287E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E8ABB56CD383000DFD52FD310C5142B /* Foundation.framework in Frameworks */,
+				2A9844FB3B86CA854496C144AB53853C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,112 +155,142 @@
 				274CA21A1481AB85F2ED9A6DC9E71657 /* TouchView.swift */,
 				9C9D707D1DC00390DDEABEE6868A2A06 /* UIWindow+Swizzle.swift */,
 				56EE9F52CD1D120F2145BBDB803505AC /* Visualizer.swift */,
-				D1AE7D674E2D347EC00ED1F39EF2091F /* Support Files */,
+				2B6DAFAC207366E463815715F43ECCC9 /* Support Files */,
 			);
 			path = TouchVisualizer;
 			sourceTree = "<group>";
 		};
-		1A06F558CA7C4C4670F0B1744F7A951D /* Utilities */ = {
+		153A03F15CDEF4F6A1FC40D58C5B901C /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				AD96949A26BDEC39A34288A5CABBAAB4 /* Animation.swift */,
-				54BED6416CFF22992C51141EC0658DA3 /* Drawer.swift */,
-				889001642D8B7ED4A5CFF97A69E34B9A /* Geometry.swift */,
-				89FE93F5C5FBE8F5BF70387C9A2C6380 /* UIColor.swift */,
+				25681B2369559E4B943C597D68640EF0 /* Animation.swift */,
+				00D9FC407E2D46002012CBBC251A3AFE /* Drawer.swift */,
+				8A346D539058D2FF5B8BC3CBC7AF7D8C /* Geometry.swift */,
+				662ECFB291A47D1E93F028D940DCB246 /* UIColor.swift */,
 			);
 			name = Utilities;
 			path = HGRippleRadarView/Classes/Utilities;
 			sourceTree = "<group>";
 		};
-		281B03CCEA8A5AE4E67FE87C057AD23E /* Pod */ = {
+		2B6DAFAC207366E463815715F43ECCC9 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				2119AB167682EA32516BF61DE8CC9783 /* HGRippleRadarView.podspec */,
-				2944AEB579615D7B7278F4017166C0F7 /* LICENSE */,
-				DCBD17C77FC2392E94CB6FD7C1A38304 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		28A1E6CEA7DB17055B0689016C0969C9 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				1B412B73AEE8035D5ABF221FCE92B5A4 /* HGRippleRadarView.framework */,
-				E15F95F45EFAE314C99E72A86446D287 /* Pods_HGRippleRadarView_Example.framework */,
-				4C9663D3EC750301DBDF309CEF8EC334 /* Pods_HGRippleRadarView_Tests.framework */,
-				339B583B5E1B44C2F53B5B543C13A16C /* TouchVisualizer.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		2BFE4BB129AE5DC50252ECC0DEFF0DA6 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				EA37D4A014C04DA54B2CBDF66D434FE1 /* HGRippleRadarView */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		485BF8F439CBD9C2210D6D4A5926DF75 /* Pods-HGRippleRadarView_Example */ = {
-			isa = PBXGroup;
-			children = (
-				969CDF8B05029319F6B944D0237A3D96 /* Pods-HGRippleRadarView_Example.modulemap */,
-				91D27C67F4553FF783DE7EDD507DB3D6 /* Pods-HGRippleRadarView_Example-acknowledgements.markdown */,
-				9BC77804A366A065075275D241FF35BD /* Pods-HGRippleRadarView_Example-acknowledgements.plist */,
-				31E3F97D2F49BC2CBBBA166A7D86E351 /* Pods-HGRippleRadarView_Example-dummy.m */,
-				C7DF6253910125CC59C7CFB136340F21 /* Pods-HGRippleRadarView_Example-frameworks.sh */,
-				A30AFFA7FDE832D9B64FA7AB472580BC /* Pods-HGRippleRadarView_Example-Info.plist */,
-				E66393BBEF0424313D1B2B9C34822065 /* Pods-HGRippleRadarView_Example-umbrella.h */,
-				6FE99479778EDCB84B51A1FF751BF1D4 /* Pods-HGRippleRadarView_Example.debug.xcconfig */,
-				A801C62152A5D71E5B5859028AA22CC3 /* Pods-HGRippleRadarView_Example.release.xcconfig */,
-			);
-			name = "Pods-HGRippleRadarView_Example";
-			path = "Target Support Files/Pods-HGRippleRadarView_Example";
-			sourceTree = "<group>";
-		};
-		640A39C303BF25496E8489A92A0DDEA0 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				485BF8F439CBD9C2210D6D4A5926DF75 /* Pods-HGRippleRadarView_Example */,
-				7EF30DA370AE9BABA5B79EA739842F2F /* Pods-HGRippleRadarView_Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		66AB8209DEC53AB468064FA89C852101 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				3BCDBB6FA9E1DB794CF43761A39D685B /* HGRippleRadarView.modulemap */,
-				0CE4F893CBA77571B0B7A93DFE97FE97 /* HGRippleRadarView.xcconfig */,
-				957E34FC4747560371C9CC73449BA72C /* HGRippleRadarView-dummy.m */,
-				B43A0CC234B964BFDB4D41EC6FFBB8B4 /* HGRippleRadarView-Info.plist */,
-				963568E9F54041EB7F9B4703229E16EE /* HGRippleRadarView-prefix.pch */,
-				B5D61B98AEE018A35E476CF17E8B9FDB /* HGRippleRadarView-umbrella.h */,
+				D7A534B46FEFB8F14D9D254400708600 /* TouchVisualizer.modulemap */,
+				0815CACD66CF657BB4615720D9C53C3C /* TouchVisualizer.xcconfig */,
+				563F21E6972F3FE1331E01E317195B17 /* TouchVisualizer-dummy.m */,
+				8E0CE9C17DE6EEB4FDB96A7ED6F29E45 /* TouchVisualizer-Info.plist */,
+				9CAEAB7B6ED799766F7D33A3DCAA6BE1 /* TouchVisualizer-prefix.pch */,
+				3AA271CB238B98336A77DEBBDCF85BF2 /* TouchVisualizer-umbrella.h */,
 			);
 			name = "Support Files";
-			path = "Example/Pods/Target Support Files/HGRippleRadarView";
+			path = "../Target Support Files/TouchVisualizer";
 			sourceTree = "<group>";
 		};
-		7EF30DA370AE9BABA5B79EA739842F2F /* Pods-HGRippleRadarView_Tests */ = {
+		2B81CF2BD513A4EF8BD2CB4349A5A648 /* Pods-HGRippleRadarView_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				7E1E78A72ADA50D3FE8B5F21E010BA4A /* Pods-HGRippleRadarView_Tests.modulemap */,
-				A6DA0B8069E4C905A3C472684DFEBBB4 /* Pods-HGRippleRadarView_Tests-acknowledgements.markdown */,
-				07CD7AF861527F108C0121C18F4C4B6F /* Pods-HGRippleRadarView_Tests-acknowledgements.plist */,
-				635934E5A0DA54887FD0E8E09E7A8DB8 /* Pods-HGRippleRadarView_Tests-dummy.m */,
-				593D91E1269C95DC9EFF74B407B481DE /* Pods-HGRippleRadarView_Tests-Info.plist */,
-				FA2F7E7E4D2A102C7484534DE82A83C3 /* Pods-HGRippleRadarView_Tests-umbrella.h */,
-				F4E3D9C21876E3CF682CBA7061F237F6 /* Pods-HGRippleRadarView_Tests.debug.xcconfig */,
-				D523B5884D864B410A941000AC909AF9 /* Pods-HGRippleRadarView_Tests.release.xcconfig */,
+				8DECFC189DDE7A327DBA3E96D0F26939 /* Pods-HGRippleRadarView_Tests.modulemap */,
+				CC4E8C061E01A4BE1AEC9A63B4CC2A87 /* Pods-HGRippleRadarView_Tests-acknowledgements.markdown */,
+				C2C740D5D65BFAD43D23435E904E8ED3 /* Pods-HGRippleRadarView_Tests-acknowledgements.plist */,
+				27BF3234E196FDEFA47DF825456DF9A2 /* Pods-HGRippleRadarView_Tests-dummy.m */,
+				1FC938818588CF50A4B1025691689FDD /* Pods-HGRippleRadarView_Tests-Info.plist */,
+				8B556087996FAF690C81E721388102B8 /* Pods-HGRippleRadarView_Tests-umbrella.h */,
+				52947390DE7AD6BF1D9CC5853F56D644 /* Pods-HGRippleRadarView_Tests.debug.xcconfig */,
+				E0D62185757F7471B1C0360C38A59143 /* Pods-HGRippleRadarView_Tests.release.xcconfig */,
 			);
 			name = "Pods-HGRippleRadarView_Tests";
 			path = "Target Support Files/Pods-HGRippleRadarView_Tests";
 			sourceTree = "<group>";
 		};
-		9B055D0CFEA43187E72B03DED11F5662 /* iOS */ = {
+		2BFE4BB129AE5DC50252ECC0DEFF0DA6 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */,
+				919F42FC1F8D3EAC533457C56800B4AA /* HGRippleRadarView */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		54A4E59AA236AC8BFE3ADA0701FC12F0 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				552810C7BD37FD103DA76E2FF4FF7109 /* HGRippleRadarView.modulemap */,
+				0E1278DB11594925E0286E43A68E8C65 /* HGRippleRadarView.xcconfig */,
+				A33FBC4D855356CC7B5384EFF157A8ED /* HGRippleRadarView-dummy.m */,
+				864EC41CCCA205166DE0A1A5A2653FF3 /* HGRippleRadarView-Info.plist */,
+				F235AF9A1DEB49ED618E1E465CD63F46 /* HGRippleRadarView-prefix.pch */,
+				83DB6ADF4B4FC49BBA075F2E9C15083A /* HGRippleRadarView-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/HGRippleRadarView";
+			sourceTree = "<group>";
+		};
+		640A39C303BF25496E8489A92A0DDEA0 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B58F07434FC8275E5829A908B9F23F6C /* Pods-HGRippleRadarView_Example */,
+				2B81CF2BD513A4EF8BD2CB4349A5A648 /* Pods-HGRippleRadarView_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		6F48313CEAD478DB1BE6E84C4794139F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8588FC5EFDC4D10A66F4C4C6818017BB /* HGRippleRadarView.framework */,
+				5BB849372CED4BD5CEA5D5A946C06ACE /* Pods_HGRippleRadarView_Example.framework */,
+				CD7A8494E74BFD4E9BF609765C847005 /* Pods_HGRippleRadarView_Tests.framework */,
+				8A37E2587439714D0F4B246C441B660E /* TouchVisualizer.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8800654D1BFBAD2F1A940A64459A05F4 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				DFA9F930FCE93F5386511DDA58427152 /* HGRippleRadarView.podspec */,
+				20E3839483FD5CF5041CD44F63A03DEB /* LICENSE */,
+				90C7BE41DE6FD69D51598368CA487984 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		919F42FC1F8D3EAC533457C56800B4AA /* HGRippleRadarView */ = {
+			isa = PBXGroup;
+			children = (
+				42CAE0ADC0F64A95506DC70F40B8E487 /* Item.swift */,
+				EDBB5A0A2897D2119B842FB54879CC88 /* ItemView.swift */,
+				40F0ACCB56220B8AFDB20C05A3BF11C4 /* RadarView.swift */,
+				C34FF3A366C524C35E91737D18EA6EAC /* RadarViewProtocol.swift */,
+				FDAD8015A9F071C65D7E421CB4EF81A1 /* RippleView.swift */,
+				8800654D1BFBAD2F1A940A64459A05F4 /* Pod */,
+				54A4E59AA236AC8BFE3ADA0701FC12F0 /* Support Files */,
+				153A03F15CDEF4F6A1FC40D58C5B901C /* Utilities */,
+			);
+			name = HGRippleRadarView;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		B58F07434FC8275E5829A908B9F23F6C /* Pods-HGRippleRadarView_Example */ = {
+			isa = PBXGroup;
+			children = (
+				EF838D4FA8B4809DC20631FE5701AA42 /* Pods-HGRippleRadarView_Example.modulemap */,
+				8A864B1FE29E30D52DB51B506E74C874 /* Pods-HGRippleRadarView_Example-acknowledgements.markdown */,
+				58E9850F490BDC8E4211DFC9BA198DDC /* Pods-HGRippleRadarView_Example-acknowledgements.plist */,
+				FAC556EEB3B4251D1108DFF83D9DB07D /* Pods-HGRippleRadarView_Example-dummy.m */,
+				B9D13A57A369952E8BDE5D48E02414D0 /* Pods-HGRippleRadarView_Example-frameworks.sh */,
+				4C23BF6134B4EE89215037074EA5913E /* Pods-HGRippleRadarView_Example-Info.plist */,
+				755405A331E5A9228E2A16942CE0A7DF /* Pods-HGRippleRadarView_Example-umbrella.h */,
+				7817E6A3AF09F7F8C81EB08C90E3973A /* Pods-HGRippleRadarView_Example.debug.xcconfig */,
+				188E302896EF5832C0561926ABE177EF /* Pods-HGRippleRadarView_Example.release.xcconfig */,
+			);
+			name = "Pods-HGRippleRadarView_Example";
+			path = "Target Support Files/Pods-HGRippleRadarView_Example";
+			sourceTree = "<group>";
+		};
+		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
@@ -272,29 +302,15 @@
 				2BFE4BB129AE5DC50252ECC0DEFF0DA6 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				D304583F58A1E124C9A44B22B23D3E83 /* Pods */,
-				28A1E6CEA7DB17055B0689016C0969C9 /* Products */,
+				6F48313CEAD478DB1BE6E84C4794139F /* Products */,
 				640A39C303BF25496E8489A92A0DDEA0 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		D1AE7D674E2D347EC00ED1F39EF2091F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				CDEBB5735102BC5606085F90B996EF8A /* TouchVisualizer.modulemap */,
-				A0475B90AFD153C70F5262A617F96DF8 /* TouchVisualizer.xcconfig */,
-				696E206FD5CA4055489677EE226C3088 /* TouchVisualizer-dummy.m */,
-				801F315B3A8ABAEADD01069788439A0E /* TouchVisualizer-Info.plist */,
-				60031CA12C4B5573F56F6B6B35797A46 /* TouchVisualizer-prefix.pch */,
-				FAD38B212319BB76C701008A22F745A2 /* TouchVisualizer-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/TouchVisualizer";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9B055D0CFEA43187E72B03DED11F5662 /* iOS */,
+				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -307,106 +323,91 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		EA37D4A014C04DA54B2CBDF66D434FE1 /* HGRippleRadarView */ = {
-			isa = PBXGroup;
-			children = (
-				62EF8CA1A920963A4EAA24FB1EA96DA4 /* Item.swift */,
-				AA508A09DEE95819C4E485B3AB2C77BA /* ItemView.swift */,
-				A94078ED52BF263B0362881D89598E42 /* RadarView.swift */,
-				7490BCDADD2E537299A786DAB1B3B17C /* RadarViewProtocol.swift */,
-				749798613B19B6E52B21AB3C28890BF4 /* RippleView.swift */,
-				281B03CCEA8A5AE4E67FE87C057AD23E /* Pod */,
-				66AB8209DEC53AB468064FA89C852101 /* Support Files */,
-				1A06F558CA7C4C4670F0B1744F7A951D /* Utilities */,
-			);
-			name = HGRippleRadarView;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		07A60B99A530C6598E5B0C747E353BFF /* Headers */ = {
+		0B1F361D873660DBE3935C62773926C6 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D0ADE4C2E87D3794E5E42F5F2EB9FD3 /* TouchVisualizer-umbrella.h in Headers */,
+				E7D35E7BA3A5965F2831537FA7B45050 /* TouchVisualizer-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BF5D3982FE650C659577C43A14741BC /* Headers */ = {
+		70A37EA691670C05A10E408E383E5A48 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				218C6F4C01BDAE0DD09D93BC2295B29B /* HGRippleRadarView-umbrella.h in Headers */,
+				A636EAA9AFECE5ED9A2E605B6585ACFA /* Pods-HGRippleRadarView_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A236FCFA643192FD2F4623CF3562E60D /* Headers */ = {
+		80A3E52318194F208FF9E3C4D6FA2E23 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F2C2DC37809667E26AAF3A21ECC1B77 /* Pods-HGRippleRadarView_Tests-umbrella.h in Headers */,
+				80AE69B4F08F185A98CA0A8C67F4197D /* Pods-HGRippleRadarView_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AE57666456AFD9E01689812B4C14609E /* Headers */ = {
+		D6339815499898AE42A0A76C58380793 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5E2958EC40CE77BE39DE75D19329A55 /* Pods-HGRippleRadarView_Example-umbrella.h in Headers */,
+				00C7BF08D73B5D6D54C3679C5C5651E8 /* HGRippleRadarView-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		5DBD21953C80EF372CC84A9FD019AF81 /* TouchVisualizer */ = {
+		1399143B2E583F8259E0A2EEE8894C7A /* Pods-HGRippleRadarView_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B1D4D27B3D073B96086903EC02142E49 /* Build configuration list for PBXNativeTarget "TouchVisualizer" */;
+			buildConfigurationList = 58F9963A221E21DC27AFEEEC36A48088 /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Example" */;
 			buildPhases = (
-				07A60B99A530C6598E5B0C747E353BFF /* Headers */,
-				CFC269ECD0B83E12979E1B161EC1BB25 /* Sources */,
-				A555D1070A59219993E7B6CAA4B794FF /* Frameworks */,
-				49774AE7A3B808C466828BBCB859B8E9 /* Resources */,
+				70A37EA691670C05A10E408E383E5A48 /* Headers */,
+				93FAAD855D98F5240DF425D6375B35EC /* Sources */,
+				36482BCA3EA8FE3F1D87DFA251DE8530 /* Frameworks */,
+				32B563753F65E406EE609C5EB883053C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-			);
-			name = TouchVisualizer;
-			productName = TouchVisualizer;
-			productReference = 339B583B5E1B44C2F53B5B543C13A16C /* TouchVisualizer.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		706C3CAB8D80C8E76C23BDE042236C00 /* Pods-HGRippleRadarView_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 96B4DF263115332E5BE7DFD51B96637C /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Example" */;
-			buildPhases = (
-				AE57666456AFD9E01689812B4C14609E /* Headers */,
-				A1E9D916788DCAD435239DFABD2A56F7 /* Sources */,
-				29702C6D1BF021462150788CE84D29DA /* Frameworks */,
-				8BA59E818A49DBBDE11761F0C46EFB66 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8D9F464FC9BDFCDD16352FD80C97C488 /* PBXTargetDependency */,
-				608F73493F47A3844660F6104E10A2F5 /* PBXTargetDependency */,
+				4C6D008A48B0C065E5B15CD64489D4F6 /* PBXTargetDependency */,
+				2A1E4C5CB3D698150D8A74A92E9763A8 /* PBXTargetDependency */,
 			);
 			name = "Pods-HGRippleRadarView_Example";
 			productName = "Pods-HGRippleRadarView_Example";
-			productReference = E15F95F45EFAE314C99E72A86446D287 /* Pods_HGRippleRadarView_Example.framework */;
+			productReference = 5BB849372CED4BD5CEA5D5A946C06ACE /* Pods_HGRippleRadarView_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		BF3ED58D93F40668C232117629B8D53A /* HGRippleRadarView */ = {
+		287BF5FD8E64EA89EE0BF84AEAAAC2C4 /* Pods-HGRippleRadarView_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 999DE4BD893C2E01A6275FC4A8AE69D9 /* Build configuration list for PBXNativeTarget "HGRippleRadarView" */;
+			buildConfigurationList = 5913208FB100DCB67C7F4EB20847EAD2 /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Tests" */;
 			buildPhases = (
-				5BF5D3982FE650C659577C43A14741BC /* Headers */,
-				5DDBE28AAA47B8AA982B7AECC509703A /* Sources */,
-				4DDD971A0A71A2E6C18BAE51FDE55BD8 /* Frameworks */,
-				295AA3DB1FB50C44B4FA7C3FAF200DE9 /* Resources */,
+				80A3E52318194F208FF9E3C4D6FA2E23 /* Headers */,
+				03FD40A48FA91D5674DB622CBF23078F /* Sources */,
+				763F78B6FD746F9D4C15EEE81A687E94 /* Frameworks */,
+				EE3E03C8BE6378EE0BDB39770D42F5F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				53FA7ECB945CF66A5BA832CE2ADD10AF /* PBXTargetDependency */,
+			);
+			name = "Pods-HGRippleRadarView_Tests";
+			productName = "Pods-HGRippleRadarView_Tests";
+			productReference = CD7A8494E74BFD4E9BF609765C847005 /* Pods_HGRippleRadarView_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		AD3A46F6BA83BC350FBC948C7F8D498F /* HGRippleRadarView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0AB39C96DFE52FA82CBB2AFECD01614 /* Build configuration list for PBXNativeTarget "HGRippleRadarView" */;
+			buildPhases = (
+				D6339815499898AE42A0A76C58380793 /* Headers */,
+				AC27FD302BCDCED31570C4C08BB04E01 /* Sources */,
+				B5A3F728FC5BEF79426A63C877A7287E /* Frameworks */,
+				27E324F0A0EC7CBA44C7BCF1304221DA /* Resources */,
 			);
 			buildRules = (
 			);
@@ -414,26 +415,25 @@
 			);
 			name = HGRippleRadarView;
 			productName = HGRippleRadarView;
-			productReference = 1B412B73AEE8035D5ABF221FCE92B5A4 /* HGRippleRadarView.framework */;
+			productReference = 8588FC5EFDC4D10A66F4C4C6818017BB /* HGRippleRadarView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D96F8C87A6E7528A229EDD0526617A83 /* Pods-HGRippleRadarView_Tests */ = {
+		F89A2D2E64741639216A7211115C72E2 /* TouchVisualizer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E9DA0A65E03B90FDDA24B03E43AF701 /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Tests" */;
+			buildConfigurationList = B2797C9A7791FEA6B2E62B21B09D1251 /* Build configuration list for PBXNativeTarget "TouchVisualizer" */;
 			buildPhases = (
-				A236FCFA643192FD2F4623CF3562E60D /* Headers */,
-				37119FBFAF0AE5EC338C6A3B643DA6CE /* Sources */,
-				A63904302F7534536980B70D0B03727F /* Frameworks */,
-				410BA3C64C2089F02F1067DD21A2384A /* Resources */,
+				0B1F361D873660DBE3935C62773926C6 /* Headers */,
+				C4694F0A6479274018DCA5DCE19FE952 /* Sources */,
+				1FB568E540F77CEADA1F8E642FD271A1 /* Frameworks */,
+				65079EADD812C2B69059CB57CAE467BF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1CEBD5DBA52A97E3081303394AB81D3E /* PBXTargetDependency */,
 			);
-			name = "Pods-HGRippleRadarView_Tests";
-			productName = "Pods-HGRippleRadarView_Tests";
-			productReference = 4C9663D3EC750301DBDF309CEF8EC334 /* Pods_HGRippleRadarView_Tests.framework */;
+			name = TouchVisualizer;
+			productName = TouchVisualizer;
+			productReference = 8A37E2587439714D0F4B246C441B660E /* TouchVisualizer.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -442,57 +442,57 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
 				TargetAttributes = {
-					BF3ED58D93F40668C232117629B8D53A = {
-						LastSwiftMigration = 1010;
+					AD3A46F6BA83BC350FBC948C7F8D498F = {
+						LastSwiftMigration = 1030;
 					};
 				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 28A1E6CEA7DB17055B0689016C0969C9 /* Products */;
+			productRefGroup = 6F48313CEAD478DB1BE6E84C4794139F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BF3ED58D93F40668C232117629B8D53A /* HGRippleRadarView */,
-				706C3CAB8D80C8E76C23BDE042236C00 /* Pods-HGRippleRadarView_Example */,
-				D96F8C87A6E7528A229EDD0526617A83 /* Pods-HGRippleRadarView_Tests */,
-				5DBD21953C80EF372CC84A9FD019AF81 /* TouchVisualizer */,
+				AD3A46F6BA83BC350FBC948C7F8D498F /* HGRippleRadarView */,
+				1399143B2E583F8259E0A2EEE8894C7A /* Pods-HGRippleRadarView_Example */,
+				287BF5FD8E64EA89EE0BF84AEAAAC2C4 /* Pods-HGRippleRadarView_Tests */,
+				F89A2D2E64741639216A7211115C72E2 /* TouchVisualizer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		295AA3DB1FB50C44B4FA7C3FAF200DE9 /* Resources */ = {
+		27E324F0A0EC7CBA44C7BCF1304221DA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		410BA3C64C2089F02F1067DD21A2384A /* Resources */ = {
+		32B563753F65E406EE609C5EB883053C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		49774AE7A3B808C466828BBCB859B8E9 /* Resources */ = {
+		65079EADD812C2B69059CB57CAE467BF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8BA59E818A49DBBDE11761F0C46EFB66 /* Resources */ = {
+		EE3E03C8BE6378EE0BDB39770D42F5F0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -502,175 +502,78 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		37119FBFAF0AE5EC338C6A3B643DA6CE /* Sources */ = {
+		03FD40A48FA91D5674DB622CBF23078F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7047B2E970F2C5C0602FC25CC23316DC /* Pods-HGRippleRadarView_Tests-dummy.m in Sources */,
+				F8FA97A7949F7298624878EB8A1B4696 /* Pods-HGRippleRadarView_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5DDBE28AAA47B8AA982B7AECC509703A /* Sources */ = {
+		93FAAD855D98F5240DF425D6375B35EC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89DB17E4A93611B266157E3D527B03C8 /* Animation.swift in Sources */,
-				8C57D30548E031EDA80E11D35B7C27EB /* Drawer.swift in Sources */,
-				D1E2BB80BB081717B1495E00FE820309 /* Geometry.swift in Sources */,
-				62C04F723BDA9DC3766BB5C6D7B1F75E /* HGRippleRadarView-dummy.m in Sources */,
-				82AE44F4EFD64AE58A5FBD46C590C32B /* Item.swift in Sources */,
-				E9F05A3A0A27A66FB7DC974C5F36BDE6 /* ItemView.swift in Sources */,
-				25F81E5C1C947E5FFBE5DED0FED1E946 /* RadarView.swift in Sources */,
-				B71CA2988803D91A45277E28CCA421AA /* RadarViewProtocol.swift in Sources */,
-				341809A074AF41474DF815AF72C82C34 /* RippleView.swift in Sources */,
-				71D2F85C7BA637674DC76197C351716B /* UIColor.swift in Sources */,
+				8FC54C6BEF7321BDB7A6A9DDB3B54B20 /* Pods-HGRippleRadarView_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A1E9D916788DCAD435239DFABD2A56F7 /* Sources */ = {
+		AC27FD302BCDCED31570C4C08BB04E01 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3146E31E79CA323D6FC759C0AD21B825 /* Pods-HGRippleRadarView_Example-dummy.m in Sources */,
+				B74A0D69E934713D525884F27737B602 /* Animation.swift in Sources */,
+				590C635BBCB96FED126D8103342FF47E /* Drawer.swift in Sources */,
+				E47916C1D8E2E80CA2C3FC4E902B1B08 /* Geometry.swift in Sources */,
+				C13CCF4DED28CE1E181D0068036A583E /* HGRippleRadarView-dummy.m in Sources */,
+				4867457118067425AB18F42683268863 /* Item.swift in Sources */,
+				E560AFC9348B15192C0A376C3AD8969D /* ItemView.swift in Sources */,
+				D2F7CF16A4D8AC63FE4862EA097704FE /* RadarView.swift in Sources */,
+				44A93AAE884A39501B0455A685319DCE /* RadarViewProtocol.swift in Sources */,
+				1083FA758DF1CCCFFF291BE0257951F5 /* RippleView.swift in Sources */,
+				AAA5D140F7C709FB22C973B6C44942B8 /* UIColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CFC269ECD0B83E12979E1B161EC1BB25 /* Sources */ = {
+		C4694F0A6479274018DCA5DCE19FE952 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF1AFD6CA0BF3266CF9F475A06A708BE /* Configuration.swift in Sources */,
-				48C53F541D8FB4855DC9A59065E931E2 /* TouchView.swift in Sources */,
-				D5B10F57B008075FFBDA39D32257B179 /* TouchVisualizer-dummy.m in Sources */,
-				070455CCD185B2617D35D9A1DBC9012A /* UIWindow+Swizzle.swift in Sources */,
-				2E244973C8072C9F43BD0BD095026346 /* Visualizer.swift in Sources */,
+				F6EFE7C599E1EDC7BD8864FED7FCB6E4 /* Configuration.swift in Sources */,
+				2C4AE75E61A0D850D7B67FD8154B646E /* TouchView.swift in Sources */,
+				A2150CE6EDA4BA5FABD4D1B8B1CA2CC9 /* TouchVisualizer-dummy.m in Sources */,
+				5F2B5FED99F618DE98CC78D3E8C4725D /* UIWindow+Swizzle.swift in Sources */,
+				FEB37233939C2991C934E8E26FA3C158 /* Visualizer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1CEBD5DBA52A97E3081303394AB81D3E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-HGRippleRadarView_Example";
-			target = 706C3CAB8D80C8E76C23BDE042236C00 /* Pods-HGRippleRadarView_Example */;
-			targetProxy = 042EEAB24DAAADE8B1797E1B5B2B808B /* PBXContainerItemProxy */;
-		};
-		608F73493F47A3844660F6104E10A2F5 /* PBXTargetDependency */ = {
+		2A1E4C5CB3D698150D8A74A92E9763A8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = TouchVisualizer;
-			target = 5DBD21953C80EF372CC84A9FD019AF81 /* TouchVisualizer */;
-			targetProxy = DBBE0EA8A236E49049132456674A3EFC /* PBXContainerItemProxy */;
+			target = F89A2D2E64741639216A7211115C72E2 /* TouchVisualizer */;
+			targetProxy = E505DC3B87D0C251EF922987F464505B /* PBXContainerItemProxy */;
 		};
-		8D9F464FC9BDFCDD16352FD80C97C488 /* PBXTargetDependency */ = {
+		4C6D008A48B0C065E5B15CD64489D4F6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = HGRippleRadarView;
-			target = BF3ED58D93F40668C232117629B8D53A /* HGRippleRadarView */;
-			targetProxy = B10102278677B3A28F43FAF85C265258 /* PBXContainerItemProxy */;
+			target = AD3A46F6BA83BC350FBC948C7F8D498F /* HGRippleRadarView */;
+			targetProxy = BE8E9CC3014775E8D45942C2A1E3B943 /* PBXContainerItemProxy */;
+		};
+		53FA7ECB945CF66A5BA832CE2ADD10AF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-HGRippleRadarView_Example";
+			target = 1399143B2E583F8259E0A2EEE8894C7A /* Pods-HGRippleRadarView_Example */;
+			targetProxy = F2F88EFE269E291357C4059CF3332E90 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		021F283A4741ED5AE4002D379D0D664B /* Release */ = {
+		0782FFB850C79A2AA19DD46416C36ABB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0CE4F893CBA77571B0B7A93DFE97FE97 /* HGRippleRadarView.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/HGRippleRadarView/HGRippleRadarView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView.modulemap";
-				PRODUCT_MODULE_NAME = HGRippleRadarView;
-				PRODUCT_NAME = HGRippleRadarView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		31DF5DE0E6752BB90DDF93D015195AA8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A801C62152A5D71E5B5859028AA22CC3 /* Pods-HGRippleRadarView_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		380E34820FBCB1BB1E69062F1B9A858F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A0475B90AFD153C70F5262A617F96DF8 /* TouchVisualizer.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TouchVisualizer/TouchVisualizer-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer.modulemap";
-				PRODUCT_MODULE_NAME = TouchVisualizer;
-				PRODUCT_NAME = TouchVisualizer;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		6B4B711415FA809FFC720D1AB74F8F14 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D523B5884D864B410A941000AC909AF9 /* Pods-HGRippleRadarView_Tests.release.xcconfig */;
+			baseConfigurationReference = E0D62185757F7471B1C0360C38A59143 /* Pods-HGRippleRadarView_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -702,7 +605,196 @@
 			};
 			name = Release;
 		};
-		AB4D69770D8ACE3A05E80BB3502666F6 /* Debug */ = {
+		0F30FA1E9FF90443A1B4DF7620144B3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0815CACD66CF657BB4615720D9C53C3C /* TouchVisualizer.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TouchVisualizer/TouchVisualizer-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer.modulemap";
+				PRODUCT_MODULE_NAME = TouchVisualizer;
+				PRODUCT_NAME = TouchVisualizer;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		183968DD28DEDBF6512B27B9E9F897CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E1278DB11594925E0286E43A68E8C65 /* HGRippleRadarView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/HGRippleRadarView/HGRippleRadarView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView.modulemap";
+				PRODUCT_MODULE_NAME = HGRippleRadarView;
+				PRODUCT_NAME = HGRippleRadarView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3D0F3715F59C45BA0D107E3EB8D292E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7817E6A3AF09F7F8C81EB08C90E3973A /* Pods-HGRippleRadarView_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		9F12AEDDF8A05379F0A7AAA57E6EF53B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 188E302896EF5832C0561926ABE177EF /* Pods-HGRippleRadarView_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		B0087CB4594321EF41619F3181FE120E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -761,14 +853,77 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		DD1A13605A7B68326293C72219AF4AFD /* Debug */ = {
+		E0E7299805687DA0816DC308B3B16C0E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F4E3D9C21876E3CF682CBA7061F237F6 /* Pods-HGRippleRadarView_Tests.debug.xcconfig */;
+			baseConfigurationReference = 0E1278DB11594925E0286E43A68E8C65 /* HGRippleRadarView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/HGRippleRadarView/HGRippleRadarView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView.modulemap";
+				PRODUCT_MODULE_NAME = HGRippleRadarView;
+				PRODUCT_NAME = HGRippleRadarView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F8931614C072644E4B0C47225F982D58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0815CACD66CF657BB4615720D9C53C3C /* TouchVisualizer.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TouchVisualizer/TouchVisualizer-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer.modulemap";
+				PRODUCT_MODULE_NAME = TouchVisualizer;
+				PRODUCT_NAME = TouchVisualizer;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		FD6E9CE2EAA2CAD80FC5227856DBC606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 52947390DE7AD6BF1D9CC5853F56D644 /* Pods-HGRippleRadarView_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -799,205 +954,50 @@
 			};
 			name = Debug;
 		};
-		E6DE337086C1ACF70DF470B5747897C0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0CE4F893CBA77571B0B7A93DFE97FE97 /* HGRippleRadarView.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/HGRippleRadarView/HGRippleRadarView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/HGRippleRadarView/HGRippleRadarView.modulemap";
-				PRODUCT_MODULE_NAME = HGRippleRadarView;
-				PRODUCT_NAME = HGRippleRadarView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		EFFA6CC97EBF5C4CC119BCC169F214B4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A0475B90AFD153C70F5262A617F96DF8 /* TouchVisualizer.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TouchVisualizer/TouchVisualizer-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/TouchVisualizer/TouchVisualizer.modulemap";
-				PRODUCT_MODULE_NAME = TouchVisualizer;
-				PRODUCT_NAME = TouchVisualizer;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		F232B5ECA11A71BFA199A229B323F454 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.2;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		F6B7B56B7A203237B0FC1F673D738ADE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6FE99479778EDCB84B51A1FF751BF1D4 /* Pods-HGRippleRadarView_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HGRippleRadarView_Example/Pods-HGRippleRadarView_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AB4D69770D8ACE3A05E80BB3502666F6 /* Debug */,
-				F232B5ECA11A71BFA199A229B323F454 /* Release */,
+				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
+				B0087CB4594321EF41619F3181FE120E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E9DA0A65E03B90FDDA24B03E43AF701 /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Tests" */ = {
+		58F9963A221E21DC27AFEEEC36A48088 /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD1A13605A7B68326293C72219AF4AFD /* Debug */,
-				6B4B711415FA809FFC720D1AB74F8F14 /* Release */,
+				3D0F3715F59C45BA0D107E3EB8D292E8 /* Debug */,
+				9F12AEDDF8A05379F0A7AAA57E6EF53B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		96B4DF263115332E5BE7DFD51B96637C /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Example" */ = {
+		5913208FB100DCB67C7F4EB20847EAD2 /* Build configuration list for PBXNativeTarget "Pods-HGRippleRadarView_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F6B7B56B7A203237B0FC1F673D738ADE /* Debug */,
-				31DF5DE0E6752BB90DDF93D015195AA8 /* Release */,
+				FD6E9CE2EAA2CAD80FC5227856DBC606 /* Debug */,
+				0782FFB850C79A2AA19DD46416C36ABB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		999DE4BD893C2E01A6275FC4A8AE69D9 /* Build configuration list for PBXNativeTarget "HGRippleRadarView" */ = {
+		B2797C9A7791FEA6B2E62B21B09D1251 /* Build configuration list for PBXNativeTarget "TouchVisualizer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E6DE337086C1ACF70DF470B5747897C0 /* Debug */,
-				021F283A4741ED5AE4002D379D0D664B /* Release */,
+				0F30FA1E9FF90443A1B4DF7620144B3B /* Debug */,
+				F8931614C072644E4B0C47225F982D58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B1D4D27B3D073B96086903EC02142E49 /* Build configuration list for PBXNativeTarget "TouchVisualizer" */ = {
+		D0AB39C96DFE52FA82CBB2AFECD01614 /* Build configuration list for PBXNativeTarget "HGRippleRadarView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				380E34820FBCB1BB1E69062F1B9A858F /* Debug */,
-				EFFA6CC97EBF5C4CC119BCC169F214B4 /* Release */,
+				E0E7299805687DA0816DC308B3B16C0E /* Debug */,
+				183968DD28DEDBF6512B27B9E9F897CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
